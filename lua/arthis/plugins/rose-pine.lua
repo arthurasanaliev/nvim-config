@@ -13,6 +13,7 @@ return {
                     iris = "#9ccfd8", -- methods
                     foam = "#ebbcba", -- fields, primitives
                     rose = "#f6c177", -- name of functions
+                    gold = "#f6c177", -- strings, numbers
                 }
             },
         })

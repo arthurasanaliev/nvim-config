@@ -12,10 +12,10 @@ vim.opt.smartindent = true
 
 vim.opt.termguicolors = true
 
-vim.opt.scrolloff = 8
+vim.opt.scrolloff = 10
 
 vim.o.background = "dark"
-vim.cmd("colorscheme rose-pine")
+vim.cmd("colorscheme default")
 
 -- vim.api.nvim_set_hl(0, "Normal", { bg = "none" })
 -- vim.api.nvim_set_hl(0, "NormalFloat", { bg = "none" })
