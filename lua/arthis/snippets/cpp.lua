@@ -49,7 +49,9 @@ ls.add_snippets('cpp', {
             'int n;',
             'cin >> n;',
             'vector<int> a(n);',
-            'for (int& x : a) cin >> x;',
+            'for (int i = 0; i < n; i++) {',
+            '    cin >> a[i];',
+            '}',
         }),
     }),
     
