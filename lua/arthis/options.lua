@@ -12,7 +12,7 @@ vim.opt.smartindent = true
 
 vim.opt.termguicolors = true
 
-vim.opt.scrolloff = 10
+vim.opt.scrolloff = 8
 
 vim.o.background = "dark"
 vim.cmd("colorscheme vscode")
